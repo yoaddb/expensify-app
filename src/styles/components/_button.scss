@@ -18,3 +18,13 @@
 .button--secondary{
     background: $grey;
 }
+
+.button--confirmation {
+    border-radius: 3px;
+    background: $grey;
+    color: black;
+    &:hover {
+        background: $grey-2;
+    }
+}
+
